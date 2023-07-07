@@ -1,0 +1,11 @@
+# Created with Anim8or 1.00
+# Object "Spider Rock 02":
+
+newmtl SpiderRock02_Base
+Ka 0.239 0.239 0.239
+Kd 0.447 0.447 0.447
+Ks 0.718 0.718 0.718
+Ns 738.6
+map_Kd SpiderRock02_Base-Diffuse.png
+map_Ks SpiderRock02_Base-Specular.png
+
